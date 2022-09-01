@@ -1,0 +1,21 @@
+body {
+  display:flex;
+  justify-content: center;
+  background-color: rgb(13, 13, 13);
+}
+
+.App {
+  display:flex;
+  text-align: center;
+  justify-content: center;
+  padding:20px;
+  margin-top: 10%;
+}
+
+#info {
+  border-style:solid;
+  color:wheat;
+  background-color: rgb(39, 39, 39);
+  border-color: wheat;
+  border-radius: 5px;
+}
