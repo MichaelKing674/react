@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import PropComp from './props';
 
 function App() {
   return (
