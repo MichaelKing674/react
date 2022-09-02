@@ -5,6 +5,7 @@ body {
   background-color: rgb(13, 13, 13);
   max-width: 80%;
   margin-left: 10%;
+  margin-bottom: 50px;
 }
 
 .Component {
@@ -21,4 +22,21 @@ body {
   display:flex;
   text-align: center;
   justify-content: center;
+}
+
+.spread {
+  margin-left: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  color: wheat;
+  border: solid;
+  font-weight: bold;
+  padding: 5px;
+  text-decoration: none;
 }
